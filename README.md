@@ -5,16 +5,18 @@ A nostalgic, buggy, simple, character style tetris game using VT100, written in 
 ## Build and Run
 
 1. Clone the repo
-
+```
+git clone https://github.com/noct4a/Tetris
+```
 2. In the directory where the source files are located run
 ```
-  $ make
+make
 ```
 3. Resize your terminal with 134 x 28
 
 4. Execute the game
 ```
-  $ ./tetris_game
+./tetris_game
 ```
 
 ## Key Set:
